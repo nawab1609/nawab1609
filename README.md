@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nawab1609
+- 👋 Hi, I’m Raish mohammed.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking to collaborate on ...
